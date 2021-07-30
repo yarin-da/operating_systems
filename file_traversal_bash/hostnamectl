@@ -1,0 +1,9 @@
+   Static hostname: nixcraft-www-42
+         Icon name: computer-vm
+           Chassis: vm
+        Machine ID: beb217fbb4324b7d9959f78c279e6599
+           Boot ID: 10f00cc5ca614b518a84d1793d0134bc
+    Virtualization: qemu
+  Operating System: Ubuntu 16.04.3 LTS
+            Kernel: Linux 4.10.0-42-generic
+      Architecture: x86-64
